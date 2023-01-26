@@ -2,7 +2,7 @@
 hide:
   - navigation
 ---
-<h2> :wave: Oi, meu nome é Laura! </h2>
+<h2> Oi, meu nome é Laura! </h2>
 
 
 > Formada em Ciências Sociais
