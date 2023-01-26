@@ -1,9 +1,11 @@
 ---
-title: Resumo - Laura Nascimento
 hide:
   - navigation
 ---
+<h2> :wave: Oi, meu nome é Laura! </h2>
 
+
+> Formada em Ciências Sociais
 > Web developer <br>
 > Apaixonada por tecnologia <br>
 > Curiosa por natureza
