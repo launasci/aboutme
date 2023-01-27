@@ -15,8 +15,7 @@ hide:
 - Telefone/whatsapp/telegram: (14) 99795-7214
 - [Linkedin](https://www.linkedin.com/in/laura-fernandes-do-nascimento-66b0a725a/)
 - [GitHub](https://github.com/launasci)
-      
-<img src="site/img/ilustracao.png">
+
 
 ### Sobre Mim
 
