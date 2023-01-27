@@ -19,7 +19,7 @@ hide:
 
 ### Sobre Mim
 
-> Sou formada em Ciências Sociais em 2021 com enfâse em Ciência Política pela Universidade Estadual Júlio de Mesquista Filho (UNESP) 
+> Me formei em formada em Ciências Sociais em 2021 com enfâse em Ciência Política pela Universidade Estadual Júlio de Mesquista Filho (UNESP) 
 > Apesar disso, em Abril de 2022, resolvi fazer uma mudança radical de carreira. Saí da área de humanas e me arrisquei entrando na área de tecnologia e atualmente curso Análise e Densenvolvimento de Sistema pela UNIAMERICA
 > A minha maior motivação para mudar de carreira foi a curiosidade que tenho pela evolução tecnológica que vivenciamos quase que cotidianamente 
 > Há 8 meses, atuo na área de tecnologia desenvolvendo tarefas cotidianas de melhorias de software e construindo melhorias que causam impacto na vida das pessoas
