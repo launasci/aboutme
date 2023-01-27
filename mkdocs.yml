@@ -1,5 +1,3 @@
 site_name: Resume - Laura Nascimento
 theme:
-name: material
-extra_javascript:
-- "https://twemoji.maxcdn.com/v/latest/twemoji.min.js"
+    name: material
