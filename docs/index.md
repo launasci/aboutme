@@ -44,11 +44,11 @@ Estas são as ferramentas que eu conheço:
 
 A grande parte desses projetos foram desenvolvidos no programa BuserTech, onde trabalho atualmente. Outros projetos que não estão listados aqui podem ser conferidos no meu [GitHub](https://github.com/launasci)
 
-> [VueHub](https://github.com/launasci/vue.hub)  - um navegador de repositorios do GitHub <br>
+> [VueHub](https://github.com/launasci/vue.hub)  - um navegador de repositórios do GitHub <br>
 > [Game of Life](https://github.com/launasci/gameoflife)  - uma reprodução do jogo Game Of Life <br> 
 > [To Do List](https://github.com/launasci/todovuetify)  - uma aplicação To Do <br>
-> [Card - Plano de Musica](https://launasci.github.io/D6/)  - um card anunciando um plano de musica <br>
-> [Currilo - HMTL e CSS](https://launasci.github.io/D2.4/)  - uma pagina estatica em formato de portilofio 
+> [Card - Plano de Musica](https://launasci.github.io/D6/)  - um cartão anunciando um plano de música <br>
+> [Currículo - HMTL e CSS](https://launasci.github.io/D2.4/)  - uma página estática em formato de portfólio
 
 ### O que preciso melhorar?
 
